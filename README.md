@@ -1,7 +1,13 @@
 # time_series_project
 projet de l’unité « Machine learning et séries temporelles »
 
-- deep_learning.ipynb :  Prédiction ddu nombre de commande uber par heure à New York avec 3 modèles de deep learning différents (Dense, RNN, LTSM) à T+1 et T+72 selon la base ou la location.
+Réalisé par Clément BOUDOU et Baptiste BONTOUX
+
+- Dossier data/ : Pre-processed data
+
+- Dossier uber-tlc-foil-response-master/ : Données brutes
+
+- deep_learning.ipynb :  Prédiction ddu nombre de commande uber par heure à New York avec 3 modèles de deep learning différents (Dense, RNN, LTSM) à T+1 et T+n selon la base ou la location.
 
 - ExponentialSmoothing.ipynb :  Prédiction du nombre de commande uber par heure à New York avec un lissage exponentiel et un modèle de Holt.
 
