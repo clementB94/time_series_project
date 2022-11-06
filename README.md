@@ -1,6 +1,8 @@
 # time_series_project
 projet de l’unité « Machine learning et séries temporelles »
 
+- deep_learning.ipynb :  Prédiction ddu nombre de commande uber par heure à New York avec 3 modèles de deep learning différents (Dense, RNN, LTSM) à T+1 et T+72 selon la base ou la location.
+
 - ExponentialSmoothing.ipynb :  Prédiction du nombre de commande uber par heure à New York avec un lissage exponentiel et un modèle de Holt.
 
 - Sarimax.ipynb :  Prédiction du nombre de commande uber par heure à New York avec un modèle statistique Sarimax.
