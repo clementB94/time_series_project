@@ -1,7 +1,11 @@
 # time_series_project
-projet de l’unité « Machine learning et séries temporelles »
+Projet de l’unité « Machine learning et séries temporelles » en E5 à l'ESIEE Paris (2022)
 
 Réalisé par Clément BOUDOU et Baptiste BONTOUX
+
+Le rapport correspond au fichier "Rapport_BOUDOU_BONTOUX.pdf"
+
+---
 
 - Dossier data/ : Pre-processed data
 
